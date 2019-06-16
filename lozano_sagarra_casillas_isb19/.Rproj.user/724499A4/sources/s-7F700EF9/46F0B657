@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560724243334.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4225493299",
+    "id" : "46F0B657",
+    "lastKnownWriteTime" : 1560725345,
+    "last_content_update" : 1560725345012,
+    "path" : "~/Dropbox/Rutgers/Conferences/2019_ISB/isb19_presentantion/lozano_sagarra_casillas_isb19/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
