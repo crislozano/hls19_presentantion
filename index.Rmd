@@ -571,7 +571,7 @@ background-position: 90% 20%
 
 - ### Cristina Lozano Argüelles
 - ### Nuria Sagarra
-- ### Joseph Casillas<sup>1</sup>
+- ### Joseph Casillas
 
 # cris.lozano@rutgers.edu
 
