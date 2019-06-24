@@ -20,7 +20,7 @@ options(htmltools.dir.version = FALSE)
 ```
 
 background-size: 100%
-background-image: url(https://tutorialesenlinea.es/uploads/posts/2016-04/1460980506_prediction_2.jpg)
+background-image: url(./img/future_predict.jpg)
 
 ???
 
@@ -36,14 +36,14 @@ background-image: url(https://media.giphy.com/media/cVfW1dt8sB2ne/giphy.gif)
 background-position: 10% 50%
 background-size: 400pt
 --
-background-image: url(https://media.giphy.com/media/DpB9NBDjIJLequCrZ3a/giphy.gif)
+background-image: url(https://media.giphy.com/media/kZR6W3exPk9a0/giphy.gif)
 background-position: 90% 50%
 background-size: 400pt
 
 
 ???
 
-For example, if you play frisbee, you need to predict the position of the frisbee in order to be able to catch it. When you want to prepare a sandwich, you need to anticipate the ingredients you will need, or when you are actually making it, studies show that your eyes start looking at the next step you are going to do, before you actually do it.
+For example, if you play frisbee, you need to predict the position of the frisbee in order to be able to catch it. When you see a bear you predict what might happen if you stay close and you start running away.
 
 ---
 
@@ -60,6 +60,10 @@ For example, if you play frisbee, you need to predict the position of the frisbe
 
 ## Listeners are not passive, they **generate expectations**
 
+--
+
+## Anticipation is used during **simultaneous interpreting**
+
 ???
 
 Language is no exception to these anticipatory mechanisms. During this presentation, prediction or anticipation are synonyms, meaning: pre-activation of stored linguistic information before it is actually said.
@@ -69,71 +73,148 @@ class: inverse
 
 # Goal
 
-- ### Investigate whether experience with complex processing (interpreting) can train anticipatory processing
---
+## Investigate whether
 
-
-- ### Are there differences in the use of lexical stress for morphology anticipation between interpreters, non-interpreters and monolinguals?
+- ### prosodic information can generate expectations about the end of a word
 
 --
 
-- ### Does working memory modulate anticipation?
+- ### L2 learners can use prediction while processing their L2
+
+
+--
+
+- ### experience with complex processing (interpreting) can train anticipatory processing
 
 
 ---
 
 class: inverse, center, middle
 
-# Morphosyntactic <br/> anticipation <br/> 
+# Semantic <br/> anticipation <br/> 
 
 ???
 
-I will start by reviewing the literature on morphological and semantic anticipation, both during native and second language processing.
+I will start by reviewing the literature on semantic anticipation, both during native and second language processing.
 
 ---
 
-# L1 Morphosyntactic Anticipation
+# Semantic Anticipation
 
-- Natives anticipate rapidly and effortlessly (Kamide, 2008), although not under all circumstances (Nieuwland et al., 2018)
 
-- Both adults and children use gender and case marking to make morphosyntactic predictions (Spanish, Dutch, German, French) (Dussias et al., 2013) (Lew-Williams & Fernald, 2007)
-    - Eg. "Encuentra la galleta" (Find the-FEM cookie)
+## L1 Studies
+
+- Natives use contextual information to predict (DeLong et al., 2005)
+    - The day was breezy so the boy went outside to fly a kite / an airplane
+    - But not always (Nieuwland et al., 2018) 
     
-- Case-marking is also used predictively by natives (Mitsugi & MacWhinney, 2016)
+- Also information contained in the verb
+    - E.g. The boy will eat the cake (Altmann & Kamide, 1999)
 
-- These studies show that morphosyntax is important for expectation generation  of upcoming linguistic information.
 
 ---
 
-# L2 Morphosyntactic Anticipation
+# Semantic Anticipation 
 
 
-- ## Intermediate late learners:
+## L2 Studies
 
-    - reduced or no integration of L2 discourse cues (Grüter et al., 2017), syntactic cues (Grüter & Rohde, 2013), and morphological cues (Foucart et al., 2016; Grüter et al., 2010; Hopp, 2015; Lew-Williams & Fernald, 2007), unless the two languages are typologically similar (Liburd, 2014; Dussias et al., 2013; Foucart et al., 2014).
+- L2ers also anticipate based on contextual information
+    - El pirata tenía el mapa secreto, pero nunca encontró el tesoro/la gruta que buscaba (Foucart et al., 2014)
+    - But not always (Martin et al., 2013) (they might be too slow)
     
-- ## Advanced late learners: 
-
-    - can use morphological cues to predict morphosyntax (Marull, 2017) and syntax (Dussias et al., 2013; Kaan et al., 2010; Kaan, 2014)
-    
-    - cannot use morphological cues to predict morphosyntax (Hopp, 2015; Martin et al., 2013), or prosodic cues to predict morphology (Rehrig, 2017). 
+- L2ers anticipate semantic info based on the verb to the same extent as natives (Dijkgraaf et al., 2016)
+    - Both in their L1 and L2
+    - But they are slightly slower (L1 and L2)
 
 
+---
 
+class: inverse, center, middle
+
+# Prosodic <br/> anticipation <br/> 
+
+---
+
+# Suprasegmental Information - Lexical Stress
+
+- Relative prominece of a syllable in a word.
+- Contrastive in English and Spanish, but used differently
+
+
+--
+
+.pull-left[
+
+### English
+- Stress-timed 
+- English natives use suprasegmental information for lexical access, but segmental information has a stronger role in lexical activation (Cooper et al., 2002).
+ 
+]
+
+--
+
+.pull-right[
+
+### Spanish
+- Syllable-timed 
+- Most words are paroxytone (PApa), oxytone stress (paPÁ) is less common
+- Suprasegmental is crucial for lexical access (Soto-Faraco et al., 2001)
+- English L2 learners of Spanish: issues with stress production and perception (Face, 2006). 
+
+
+]
 
 ???
 
-Multiple studies have come to the conclusion that grammatical gender is a strong cue for anticipation. This has been tested in multiple languages like: spanish, dutch, german or french. 
-
-Is this eye-tracking studies, the participants listen to sentences like "Encuentra la galleta" while the see typically 4 objects on the screen. When only one of the objects is feminine (in this case), the are able to direct their eyes to the cookie right after the determiner "la" is pronounced, and before the noun is said.
-
-Another syntactic cue that has been studied is case-marking, in languages such as Japanese or German.
-
-What happens with second language?
-
+Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 
 ---
+
+# Segmental Information - Syllabic Structure
+
+## CV - papa
+
+## CVC - carne
+
+## Works similarly in both languages
+
+  - ### CV = more frequent
+  - ### CVC = less frequent, hence, less lexcial competitors
+
+
+---
+
+# Prosodic Cues for prediction
+
+
+## L1
+
+- Contrastive intonation guides the initial syntactic analysis (for Japanese Nakamura et al., 2012)
+
+- English vowel duration preactivates upcoming morphology (active/pasive verbs) (Rehrig, 2017)
+
+- Swedish word-tones preactive upcoming morhphology (present/past, singular/plural) (Roll, 2015)
+
+
+---
+# Prosodic Cues for prediction
+
+## L2
+
+- Advanced L2ers cannot use vowel duration for prediction (Rehrig, 2017)
+
+- Advanced L2ers can use word tones for prediction (Schremm et al., 2016)
+
+- Beginning L2ers cannot use word tones (Gosselke Berthelse et al, 2018)
+
+- Morphological prediction based on word-tones can be explicitly trained (at beginner level) (Schremm et al., 2017)
+
+
+---
+
+
 
 class: inverse, center, middle
 
@@ -176,20 +257,18 @@ Togato: When reading ambiguous sentences that could be interpreted with both low
 .pull-left[
 - is taught in simultaneous interpreting courses (Li, 2015)
 
-- releases cognitive load
+- releases cognitive load (Seeber, 2011)
 
 - has been studied in language pairs with asymmetrical syntactic structures (SVO/SOV) (Van Besien, 1999)
 
-- happens at high rates and is successful most of o the time (Liontou, 2012)
+- used often and succesfully (Liontou, 2012)
 
-- is possible thanks to contextual knowledge (both general and from the specific text), and syntactic knowledge (Moser-Mercer, 1978)
+- possible thanks to contextual knowledge and syntactic knowledge (Moser-Mercer, 1978)
 
 ]
 --
 
 .pull-right[
-
-
 
 - But we still don't know
   - Other cues?
@@ -201,140 +280,26 @@ Togato: When reading ambiguous sentences that could be interpreted with both low
 
 Interpreters are also interesting for this topic because they use anticipation while performing simultaneous interpreting. 
 
----
 
+---
 class: inverse, middle, center
 
-# Working memory
+# ?
 
-???
-
-I will now review the another factor that I'm going to explore, which the possibility of WM modulating anticipation
-
-WM is the executive function component dedicated to storing and processing information at the same time
 
 ---
-# Working memory
+class: inverse
 
 
-.pull-left[
-
-## Anticipation
-
-- WM mediates ability to anticipate in natives (Huettig & Janse, 2016)
-  - 'Kijk naar de afgebeelde piano' 
-  
-- Although not always (Otten & Van Berkum, 2009)
-  - 'She picked up the-COM delicate yet striking necklace that had been selected by her stylist.'
-  - More time was allowed to predict
-
-- It seems that L2ers as well (Ito, 2016) (although this was measure indirectly)
-
-- What happens with prosodic cues?
-
-]
+## Can prosodic cues only guide morphological prediction?
+## Or does the same mechanism apply to any lexical item?
 
 --
 
-.pull-right[
-
-## Interpreters
-
-- Some find that interpreters have better WM than non-interpreter bilinguals (review Dong & Cai, 2015)
-
-- Others don't 
-  - Different tasks, confusion between WM and phonological short-term memory, differences in population (students, amount of experience) and age
-
-- Our study will look at:
-  - WM differences between interpreters and non-interpreters
-  - WM as a mediating factor for anticipation
-]
-
-???
-
-In her dissertation Ito indirectly look at the role of WM in L2 prediction and she indicated that it is indeed a mediating factor. However, she did not collect any measures of WM
+## Is proficiency the only factor that modulates L2 prediction? 
+## Or does additional experience anticipating impact L2 prediction?
 
 ---
-class: inverse, center, middle
-
-# Prosodic cues
- 
-???
-
-In this coming section, I will review the literature related to the prosodic cue I research: Lexical Stress
-
----
-
-# Lexical Stress
-
-- Relative prominece of a syllable in relation to the rest of syllable in a word.
-- Correlates: Tone (F0), duration (ms), and intesity (dB)
-- Contrastive in English and Spanish, but used differently
-
---
-
-.pull-left[
-
-### English
-- Stress-timed 
-  - Unstressed vowels: reduction [ə] 
-- English natives use suprasegmental information for lexical access, but segmental information has a stronger role in lexical activation (Cooper et al., 2002).
-- Mandarin L2ers of English use only suprasegmental cues and Korean L2ers use both segmental and suprasegmental cues (Connell et al., 2018) 
-]
-
---
-
-.pull-right[
-
-### Spanish
-- Syllable-timed 
-  - Stressed vowels: slightly longer
-  - Spanish natives rely on F0, intensity and duration to identify stress
-- English L2 learners of Spanish have problems with stress production and perception (Face, 2006; Lord, 2007). 
-- Both suprasegmental and segmental information contribute equally to the activation of word forms (Soto-Faraco et al., 2001)
-
-]
-
-???
-
-Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
-
-
-
-
-
----
-
-# Prosodic Cues to Predict Morphology
-
-.pull-left[
-
-## L1
-
-- Contrastive intonation guides the initial syntactic analysis (for Japanese Nakamura et al., 2012)
-
-- English owel duration preactivates upcoming morphology (active/pasive verbs) (Stromswold et al., 2002)
-
-- Swedish word-tones preactive upcoming morhphology (present/past, singular/plural)
-]
-
---
-
-.pull-right[
-
-## L2
-
-- Advanced L2ers cannot use vowel duration for prediction (Rehrig, 2017)
-
-- Advanced L2ers can use word tones for prediction (Schremm et al., 2016)
-
-- Beginning L2ers cannot use word tones (Gosselke Berthelse et al, 2018)
-
-- It is possible to explicitly train morphological prediction based on word-tones (at beginner level) (Schremm et al., 2017)
-
-]
----
-
 class: inverse, center, middle
 
 # The study
@@ -344,11 +309,10 @@ class: inverse, center, middle
 
 # Research questions
 
-### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphology information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress and syllabic structure to anticipate lexical (non-morphological) information?
 
 ### 2. Does interpreting experience train anticipatory processing?
 
-### 3. Is working memory a mediating factor in the anticipation of morphological information based on lexical stress?
 
 ---
 
@@ -358,9 +322,9 @@ class: inverse, center, middle
 
 ## Participants
 
-- Monolinguals (n = 25)
+- Monolinguals (n = 32)
 - Non-interpreter bilinguals (n = 26)
-- Interpreter bilinguals (n = 12)
+- Interpreter bilinguals (n = 24)
 
 ]
 
@@ -372,6 +336,7 @@ class: inverse, center, middle
 - Proficiency test (DELE) (15 min)
 - Eye-tracking task (20 min)
 - Working Memory task (10 min)
+- Phonological Short Term Memory task (10 min)
 
 ]
 
@@ -386,107 +351,58 @@ background-position: 60% 50%
 ???
 After calibration, the participant saw a fixation cross for 250ms, followed by 1000ms of the two possible words (as it is standard in visual world paradigm experiments), and then they listened to a sentence containing one of the two words.
 
----
-
-# Working memory
-
-### Letter-number sequencing
-
-- Participant listens to numbers and letters
-
-- Remembers them 
-
-- Organizes them: first numbers (numerical order), then letters (alphabetical order)
 
 ---
-class: center, middle
+background-image: url(./img/conditions.png)
+background-size: 700px
+background-position: 60% 50%
 
-# 7
-
----
-
-class: center, middle
-
-# J
-
----
-
-class: center, middle
-
-# A
-
----
-class: center, middle
-
-# 3
-
----
-class: center, middle
-
-# 37AJ
-
---
-background-image: url(https://i.imgflip.com/1m82m9.jpg)
-background-size: 200pt
-background-position: 90% 80%
-
-???
-
-give them an example: 7-C-3-A
-Correct answer: 37AC
-
----
-
-# Eye-tracking task: lexical stress to anticipate morphology
+# Eye-tracking task
 
 - 16 pairs of sentences
-  - 8 paroxytone (present verbs)
-  - 8 oxytone (past verbs)
-  - 7 CVC and 9 CV (first syllable of the verb)
 
-- 5 words long
 
-- Semantically viable (for both conditions)
+---
 
-<ru-blockquote>La mujer llena la jarra. (The woman fills the jar) <br/>
-La mujer llenó la jarra. (The woman filled the jar) </ru-blockquote>
+# Eye-tracking task
+
+- ### Los investigadores apuntan que papa es una planta comestible 
+
+  - (Researchers indicate that potato is an edible plant)
+  
+- ### Los investigadores apuntan que papá es quien ejerce de padre 
+  - (Researches indicate that dad is who acts as a father) 
 
 ---
 
 # Statistical Analyses
 
-### Three analyses
-- One tailed t-test
-
+### Growth Curve Analysis 
+  
   - Determine whether participants can anticipate
+  - Evaluate group differences
 
-- GLMM
+### Fixed effects:
 
-  - Establish group differences
+  - group
+  - lexical stress
+  - syllable structure 
 
-- Growth Curve Analysis 
+### Random effects:
 
-  - Evaluate group differences over time course
-
----
-
-background-image: url(./img/time_course.png)
-background-size: 800pt
----
-
-background-image: url(./img/ttest.png)
-background-size: 800pt
-
+  - by-subject random effects (random slope: syllable structure and lexical stress)
+  - by-item random effects on all time terms
 
 ---
 
-background-image: url(./img/glmm.png)
-background-size: 800pt
+background-image: url(./img/stress_p2.png)
+background-size: 600pt
 
 ---
 
-background-image: url(./img/gca.png)
-background-size: 800pt
+background-image: url(./img/stress_p3.png)
+background-size: 600pt
+
 
 ---
 class: inverse, center, middle
@@ -495,31 +411,24 @@ class: inverse, center, middle
 
 ---
 
-# 1. Does complex processing train anticipation?
+### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress and syllabic structure to anticipate lexical (non-morphological) information?
 
-- YES, interpreters perform closer to monolinguals.
+- Monolinguals and interpreters anticipate above chance in all conditions
 
-- Non-interpreters (LA): Only anticipate when more time and phonological information are present
+- Monolinguals anticipate at a higher rate
 
-- All fixate more on targets in CVC (firma-firmó) than CV (lava-lavó)
-
-- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE
-
+- Non-interpreters are only able to anticipate when both restrictive cue types (oxytone + coda) are present
 
 ---
 
-# 2. When do they predict?
+### 2. Does interpreting experience train anticipatory processing?
 
-- Monolinguals & interpreters fixate on targets earlier than non-interpreters = INTERPRETER ADVANTAGE.
+- NIN predicted significantly less
 
-- Non-interpreters can predict if CVC, but can’t if CV.
+- Syllable structure × Lexical stress × Group NIN, Syllable structure × Lexical stress × Group IN For IN and NIN, 
 
-    - CV: Interpreters initially fixate less, but at a faster rate than natives (they get to the same point by target offset)
-    - CVC: interpreters = monolinguals
 
-# 3. Does WM mediate anticipation?
 
-- Our data doesn't support WM as a mediating factor of anticipation
 
 
 ---
@@ -528,12 +437,23 @@ class: inverse, center, middle
 
 1. Our findings support models advocating that it is possible to train anticipatory processing (Schremm, et al., 2017).
 
-2. Qualitatively (can they do it?): it is possible to learn L2 anticipatory patterns (non-interpreters) post-puberty, and “practice makes you better” (interpreters).
+2. 
 
-3. Quantitatively (how early they predict?): the monolinguals are the winners.
+2. prediction strategies in the bilingual mind can be enhanced through implicit (i.e. interpreting) training. 
 
 
 
+
+---
+
+# Limitations and future studies
+
+- Other reasons why interpreters are better:
+    - increased weekly contact with the L2, 
+    - stronger resistance to articulatory suppression
+
+- Future studies:
+    - Non-linguistic prediction task (movement, rhythmic)
 
 
 ---
@@ -545,10 +465,11 @@ background-position: 90% 20%
 
 
 --
+.pull-left[
 
-# "After all, predicting the trajectory <br/> 
-# of a frisbee does not preclude  <br/>
-# actually catching it. It helps." <sup>1</sup>
+# "After all, predicting the trajectory of a frisbee does not preclude actually catching it. It helps." <sup>1</sup>
+
+]
 
 .footnote[
 [1] Van Berkum et al., 2005
@@ -576,9 +497,14 @@ background-position: 90% 20%
 # cris.lozano@rutgers.edu
 
 
+---
+
+background-size: 100%
+background-image: url(./img/model_prob_estimates.png)
 
 
+---
 
-
-
+background-size: 100%
+background-image: url(./img/timecourse10m_stress_unrel.png)
 
