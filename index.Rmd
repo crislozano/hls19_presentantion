@@ -483,17 +483,41 @@ Your browser does not support the audio element.
 ???
 After calibration, the participant saw a fixation cross for 250ms, followed by 1000ms of the two possible words (as it is standard in visual world paradigm experiments), and then they listened to a sentence containing one of the two words.
 
+<audio controls>
+  <source src="./wav/U09_C2.wav" type="audio/wav">
+  <embed src="./wav/U09_C2.wav" autostart="false" hidden="true" />
+</audio>
 
 ---
 
 # Eye-tracking task
 
-- ### Los investigadores apuntan que **papa** es una planta comestible 
 
-  - (Researchers indicate that potato is an edible plant)
+.pull-left[
+## Experiment 1
+- Los investigadores apuntan que **papa** es una planta comestible 
+
+  <sup>(Researchers indicate that potato is an edible plant)</sup>
   
-- ### Los investigadores apuntan que **papá** es quien ejerce de padre 
-  - (Researches indicate that dad is who acts as a father) 
+- Los investigadores apuntan que **papá** es quien ejerce de padre 
+
+  <sup>(Researches indicate that dad is who acts as a father)</sup>
+]
+
+.pull-right[
+## Experiment 2
+- El director **firma** la factura
+ 
+  <sup>(The director signs the bill)</sup>
+  
+- El director **firmó** la factura
+  
+  <sup>(The director signed the bill)</sup>
+
+]
+
+  
+
 
 ---
 
