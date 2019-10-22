@@ -61,16 +61,12 @@ For example, when doing an eye-tracking experiment on Cristiano Ronaldo to try t
 
 ---
 class: inverse
-background-image: url(./img/eyetracking_setup2.jpg)
-background-size: 300pt
-background-position: 50% 85%
-
 
 # Goal
 
 
 
-- ## Prediction based on prosodic cues in L1 and L2 Spanish
+- ## Investigate prosodic cues for prediction in L1 and L2 Spanish
 
 - ## Role of anticipatory experience
 
@@ -218,45 +214,42 @@ class: inverse, center, middle
 
 ---
 
-# Prosodic Cues for Prediction - L1
+# Prosodic Cues for Prediction - L1 & L2
 
 ### Intonation
 
-- Japanese contrastive intonation guides the initial syntactic analysis
+- Japanese contrastive intonation preactivates the initial syntactic analysis in L1
 
-### Vowel duration
-- English vowel duration preactivates upcoming morphology (active/pasive verbs)
-
-### Word tones
-- Swedish word-tones preactive upcoming morhphology (present/past, singular/plural)
-
-
-.footnote[
-Nakamura et al., 2012; Rehrig, 2017; Roll, 2015
-]
-
----
-# Prosodic Cues for Prediction - L2
-
-### Vowel duration
-
-- Advanced L2ers cannot use vowel duration for prediction
-
-### Word tones
-
-- Advanced L2ers can use word tones for prediction
-
-- Beginning L2ers cannot use word tones
-
-- Morphological prediction based on word-tones can be explicitly trained (at beginner level)
 
 ### Lexical stress
 
+- Spanish natives use lexical stress to predict morphology
 - Beginner L2ers cannot use lexical stress to predict morphology
-- Advanced L2ers  use lexical stress to predict morphology
+- Advanced L2ers use lexical stress to predict morphology, only under certain conditions
 
 .footnote[
-Gosselke Berthelse et al, 2018; Rehrig, 2017; Sagarra & Casillas, 2012; Schremm et al., 2016; Schremm et al., 2017
+Nakamura et al., 2012; Rehrig, 2017; Sagarra & Casillas, 2012
+]
+
+---
+# Prosodic Cues for Prediction - L1 & L2
+
+### Vowel duration
+- English vowel duration preactivates upcoming morphology (active/pasive verbs) in L1
+- but not in advanced L2 learners
+
+
+### Word tones
+
+- Swedish word-tones preactive upcoming morhphology (present/past, singular/plural)
+- Advanced L2ers can use word tones for prediction
+- Beginning L2ers cannot use word tones
+- Morphological prediction based on word-tones can be explicitly trained (beginner level)
+
+
+
+.footnote[
+Gosselke Berthelse et al, 2018; Rehrig, 2017; Roll, 2015; Schremm et al., 2016; Schremm et al., 2017
 ]
 
 ---
@@ -383,7 +376,7 @@ class: inverse
 --
 
 ## Proficiency is an important factor for L2 prediction, but...
-## Does additional **experience anticipating** impact L2 prediction?
+## Does additional **experience making predictions** impact L2 prediction?
 
 ???
 
@@ -399,7 +392,7 @@ I'll explain in a minute what I mean by non-morphological word endings
 - Monolinguals (n = 25)
 - Non-interpreter bilinguals (n = 27)
 - Interpreter bilinguals (n = 23)
-- Learner groups: comparable L2 proficiency
+- Bilingual groups: comparable L2 proficiency
 - All groups: comparable WM
 ]
 
@@ -410,13 +403,13 @@ I'll explain in a minute what I mean by non-morphological word endings
 - Monolinguals (n = 32)
 - Non-interpreter bilinguals (n = 26)
 - Interpreter bilinguals (n = 24)
-- Learner groups: comparable L2 proficiency
+- Bilingual groups: comparable L2 proficiency
 - All groups: comparable WM
 ]
 
 ---
 
-background-image: url(./img/participant.jpg)
+background-image: url(./img/eye_tracker_participant.jpg)
 background-size: 275pt
 background-position: 90% 45%
 
@@ -454,7 +447,7 @@ background-position: 4% 80%, 97% 80%
 - 48 fillers
 ]
 ---
-background-image: url(./img/eye_tracking.png)
+background-image: url(./img/eyetracking_trial.gif)
 background-size: 400pt
 background-position: 30% 50%
 
@@ -464,12 +457,17 @@ background-position: 30% 50%
 <div style="float:right">
 .full-width[
 .content-box-blue[
-
-<audio controls>
-  <source src="./wav/U09_C2.wav" type="audio/wav">
-  <embed src="./wav/U09_C2.wav" autostart="false" hidden="true" />
+<audio controls style="width: 120px;">
+  <source src="./wavs/U09_C1.ogg" type="audio/ogg">
+  <source src="./wavs/U09_C1.wav" type="audio/mpeg">
+Your browser does not support the audio element.
 </audio>
-
+</br>
+<audio controls style="width: 120px;">
+  <source src="./wavs/U09_C2.ogg" type="audio/ogg">
+  <source src="./wavs/U09_C2.wav" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 ]
 ]
 </div>
@@ -538,40 +536,82 @@ class: inverse, middle, center
 
 ???
 
-We're going to see the same date from 2 different perspectives
-1. Comparing syllabic structure curves for every group
-2. Comparing group curves for items with and without coda
-
----
-background-image: url(./img/stress_p2.png)
-background-size: 600pt
-
-???
-The model intercept estimates the log odds of participants fixating on the target, averaging over the time course, lexical stress and syllable structure
-
----
-
-background-image: url(./img/stress_p3.png)
-background-size: 600pt
 
 
 ---
-class: inverse, center, middle
 
-# Discussion
+background-image: url(./img/prob_graphs.png)
+background-size: 650pt
+background-position: 50% 70%
+
+.pull-left[ 
+## Experiment 1
+### firma-firmó
+]
+
+.pull-right[ 
+## Experiment 2
+### papa-papá
+]
+
+
 
 ---
 
+background-image: url(./img/gca_groups.png)
+background-size: 675pt
+background-position: 50% 70%
+
+.pull-left[ 
+## Experiment 1
+### firma-firmó
+]
+
+.pull-right[ 
+## Experiment 2
+### papa-papá
+]
 
 ---
-background-image: url(./img/nicole.jpg)
-background-size: 250pt
-background-position: 80% 80%
+
+.pull-left[ 
+### Experiment 1 firma-firmó
+
+**MON**
+- Syllabic structure: coda increases prediction
+- Stress: oxy fixated earlier than parox
+- Syl x stress: coda increases fixations for parox only
+
+
+**NIN**
+- Anticipate later than MO
+- Stress x coda: adding a coda improves prediction, but only in paroxytones
+
+**IN**
+- Anticipate later than MO
+- Anticipate later than NIN, but at a faster rate
 
 
 
+]
+
+.pull-right[ 
+### Experiment 2 papa-papá
+
+**MON**
+- Stress: oxytone increases prediction
 
 
+**NIN**
+- Anticipate less than MON
+- Anticipate later than MON (but faster)
+- Interaction is stronger (coda more helpful)
+
+**IN**
+- Interaction is stronger (coda more helpful)
+- Anticipate earlier than NIN
+
+]
 
 
 ---
@@ -597,37 +637,56 @@ background-position: 80% 80%
     - increased weekly contact with the L2, 
     - stronger resistance to articulatory suppression
 
+- Semantic relatedness:
+    - firma-firmó = verb + semantically related
+    - papa-papá = noun + semantically unrelated
+
 - Future studies:
-    - Non-linguistic prediction task (movement, rhythmic)
+    - Dedo-dedal = noun + semantically related
+    - Is the difference due to a change in grammar category? or semantic relatedness?
 
 ---
-class: title-slide-final, left
+class: title-slide-final, center
 
 background-image: url(./img/authors.jpeg)
 background-size: 300pt
-background-position: 90% 20%
+background-position: 50% 50%
 
 # Thank you!
-## Questions?
+
+
+---
+
+background-image: url(./img/questions_end.gif)
+background-size: 300pt
+background-position: 50% 65%
 
 
 
 # cris.lozano@rutgers.edu
-### crislozano.github.io/hls9_presentantion
+### Access presentation here: crislozano.github.io/hls19_presentantion
 
 
----
 
-background-size: 100%
-background-image: url(./img/model_prob_estimates.png)
 
 
 ---
 
-background-size: 100%
-background-image: url(./img/timecourse10m_stress_unrel.png)
 
+background-image: url(./img/stress_p2.png)
+background-position: 50% 90%
+background-size: 500pt
 
+# Experiment 1: firma-firmó
 
+???
+The model intercept estimates the log odds of participants fixating on the target, averaging over the time course, lexical stress and syllable structure
 
+---
+
+background-image: url(./img/stress_p2_unrel.png)
+background-position: 50% 90%
+background-size: 500pt
+
+# Experiment 2: papa-papá
 
