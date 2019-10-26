@@ -453,7 +453,7 @@ background-position: 4% 80%, 97% 80%
 ---
 background-image: url(./img/eyetracking_trial.gif)
 background-size: 400pt
-background-position: 30% 90%
+background-position: 30% 60%
 
 # Eye-tracking: sample trial
 
