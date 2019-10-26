@@ -696,9 +696,11 @@ I started by a descriptive explanation of what's going on, here is a summary of 
 ---
 class: title-slide-final, center
 
-background-image: url(./img/authors.jpeg)
-background-size: 300pt
-background-position: 50% 50%
+background-image: url(./img/authors.jpeg), url(./img/gu_logo.png), url(./img/cu_logo.png)
+background-size: 300pt, 150pt, 150pt
+background-position: 80% 50%, 20% 30%, 20% 70%
+
+
 
 # Thank you!
 
