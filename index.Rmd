@@ -1,5 +1,5 @@
 ---
-title: "Predicting the end: monolinguals, L2 learners and interpreters’ use of prosody to predict word endings"
+title: "Predicting the End: Monolinguals, L2 Learners and Interpreters’ Use of Prosody to Predict Word Endings"
 subtitle: " .red[HLS - 2019]"
 author: "Cristina Lozano Argüelles, Nuria Sagarra, Joseph V. Casillas"
 date: "Rutgers University </br> 10-26-2019"
@@ -21,8 +21,21 @@ background-image: url(./img/future_predict.jpg)
 background-size: 500pt
 background-position: 50% 50%
 
---
+???
+Thank you very much for being here today. 
+By reading the title, predicting the end, you might be thinking about some sort of apocalyptic account. 
+But prediction, far from being a complicated cognitive construct or a mystic power, is very much present in our daily lives. 
 
+--
+background-image: url(./img/ronaldo_eye-tracking.jpg)
+background-size: 500pt
+background-position: 50% 50%
+
+
+???
+For example, when doing an eye-tracking experiment on Cristiano Ronaldo to try to figure out why he's better than other soccer players,
+
+--
 background-image: url(./img/ronaldo.gif)
 background-size: 500pt
 background-position: 50% 50%
@@ -30,8 +43,7 @@ background-position: 50% 50%
 
 ???
 
-Thank you very much for being here today. Prediction, far from being a complicated cognitive construct or a mystic power, is very much present in our daily lives. 
-For example, when doing an eye-tracking experiment on Cristiano Ronaldo to try to figure out why he's better than other soccer players, they found out that he would look at his rival feet instead of the ball, in order to predict his movements and to be one step ahead of him.
+They found out that he looks at his rival feet instead of the ball because this allows him to predict his movements and to be one step ahead of him. So prediction makes him a more efficent player.
 
 ---
 
@@ -118,7 +130,7 @@ background-image: url(./img/hopp2015.png)
 background-size: 300pt
 background-position: 95% 50%
 
-# Research on Language Prediction
+# Research on Language Prediction - L1
 
 .pull-left[
 .content-box-red[  
@@ -142,7 +154,9 @@ e.g. "Encuentra la galleta" (Find the-FEM cookie)
 
 ???
 
-Hopp, case: After hearing the case, they look to what's coming. In SVO, they look to the object, in OVS, they look to the subject
+Focusing on native speakers, research has shown that, when the context is non-predictive, there are other cues that speakers use to predict upcoming information. For example, the gender instantiated in the determinter, allows the speaker to predict the object that will be mentioned (when only one of the displayed objects is femenine.) This is study with done with children
+
+Something similar happens with case. When native German speakers hear the case in the article, they look to what's coming. In SVO, they look to the object, in OVS, they look to the subject
 
 
 ---
@@ -152,7 +166,7 @@ background-size: 300pt
 background-position: 90% 50%
 
 
-# Research on Language Prediction
+# Research on Language Prediction - L1
 
 .pull-left[
 .content-box-red[  
@@ -175,6 +189,13 @@ e.g. "The boy will eat/move the cake"
 2. Atlmann & Kamide, 1999
 ]
 
+???
+
+Other researchers have focused on what happens when the context of the sentence is constraining. For example, when hearing the sentence "the day was breezy....", native speakers show a surprisal effect in the case of the less freqent noun (airplane), but importantly, this effect is shown already at the article. A group of labs failed to replicate this effect, but we can discuss at the end if your interested.
+
+Other examples of predictive context would be sentences where the semantic information in the verb helps to predict what comes next. For instance, when presented with this image and hears the sentence They boy will eat the cake, the participant is already looking at the cake right after hearing the verb eat.
+
+What happens with L2 learners?
 
 ---
 
@@ -210,7 +231,7 @@ e.g. "The boy will eat/move the cake"
 
 class: inverse, center, middle
 
-# Prosodic <br/> Prediction <br/> 
+# Prediction Based on <br/> Prosodic Cues <br/> 
 
 ---
 
@@ -300,14 +321,14 @@ Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 # Segmentals - Syllabic Structure
 
-## CV - papa _(dad)_
+## CV - papá _(dad)_
 
 ## CVC - carne _(meat)_
 
 ## Works similarly in both English and Spansih
 
   - ### CV = more frequent
-  - ### CVC = less frequent, hence, less lexcial competitors
+  - ### CVC = less frequent, hence, less lexical competitors
 
 
 ---
@@ -369,9 +390,10 @@ There are still some questions that we haven't answered
 class: inverse
 
 
-## Can **lexical stress** and **syllabic structure** predict morphological endings in L1 and L2 Spanish?
+## Can **lexical stress** and **syllabic structure** be used to predict morphological endings in L1 and L2 Spanish?
 ## What about non-morphological word endings?
-<br></br>
+### Does prediction only happen when we can separate the word in two components?
+
 
 --
 
@@ -388,7 +410,7 @@ I'll explain in a minute what I mean by non-morphological word endings
 # Participants
 
 .pull-left[
-## Experiment 1: morphology
+## Experiment 1: morphology <sup>1</sup>
 - Monolinguals (n = 25)
 - Non-interpreter bilinguals (n = 27)
 - Interpreter bilinguals (n = 23)
@@ -399,12 +421,16 @@ I'll explain in a minute what I mean by non-morphological word endings
 --
 
 .pull-right[
-## Experiment 2: word ending
+## Experiment 2: non-morphology
 - Monolinguals (n = 32)
 - Non-interpreter bilinguals (n = 26)
 - Interpreter bilinguals (n = 24)
 - Bilingual groups: comparable L2 proficiency
 - All groups: comparable WM
+]
+
+.footnote[
+.small[ 1 Lozano-Argüelles, Sagarra & Casillas, forthcoming (BLC)]
 ]
 
 ---
@@ -432,7 +458,7 @@ background-position: 4% 80%, 97% 80%
 
 
 .pull-left[
-## Experiment 1
+## Experiment 1: morphology
 66 sentences
 - 18 practice 
 - 16 experimental
@@ -440,16 +466,18 @@ background-position: 4% 80%, 97% 80%
 ]
 
 .pull-right[
-## Experiment 2
+## Experiment 2: word endings
 72 sentences
 - 8 practice 
 - 16 experimental
 - 48 fillers
 ]
+
+  
 ---
 background-image: url(./img/eyetracking_trial.gif)
 background-size: 400pt
-background-position: 30% 50%
+background-position: 30% 90%
 
 # Eye-tracking: sample trial
 
@@ -477,38 +505,6 @@ Your browser does not support the audio element.
 After calibration, the participant saw a fixation cross for 250ms, followed by 1000ms of the two possible words (as it is standard in visual world paradigm experiments), and then they listened to a sentence containing one of the two words.
 
 
-
----
-
-# Eye-tracking task
-
-
-.pull-left[
-## Experiment 1
-- Los investigadores apuntan que **papa** es una planta comestible 
-
-  <sup>(Researchers indicate that potato is an edible plant)</sup>
-  
-- Los investigadores apuntan que **papá** es quien ejerce de padre 
-
-  <sup>(Researches indicate that dad is who acts as a father)</sup>
-]
-
-.pull-right[
-## Experiment 2
-- El director **firma** la factura
- 
-  <sup>(The director signs the bill)</sup>
-  
-- El director **firmó** la factura
-  
-  <sup>(The director signed the bill)</sup>
-
-]
-
-  
-
-
 ---
 
 # Statistical Analyses
@@ -528,6 +524,12 @@ After calibration, the participant saw a fixation cross for 250ms, followed by 1
 
   - subject (random slope: syllable structure and lexical stress)
   - item
+
+???
+
+We analyzed the time window spanning from 200ms before the target syllabe offset, until 600ms after. 
+
+The GCA is a model that fits that data to its functional form. We included the linear, quadratic and cubic time terms.
 
 ---
 class: inverse, middle, center
@@ -555,6 +557,18 @@ background-position: 50% 70%
 ]
 
 
+.footnote[
+.tiny[Model estimates for probability of target fixations ± SE at 200 ms after the target syllable offset]
+]
+
+???
+
+In this graph we are looking at the probability of fixations towards the target averaging across all conditions 200ms after the offset of the target syllable (it takes 200ms for the eye to move after having heard a particular stimulus). So just one specific time point (the intercept of our model). On the Y axis we have probability of fixations, the thick white line indicate chance. On the x axis we have the 3 groups. The blue points are paroxytone conditions (firma and papa), red oxytones (firmó and papá). Circles are targets without a coda, triangles are targets with a coda. 
+
+In the morphological ending experiment, we see that monolinguals can predict the ending above chance for all conditions, although CV paroxytones seem to yield a lower rate of fixations. The non-interpreters and interpreters show a similar pattern, they seem to predict at a lower rate, but they don't do it above chance for CV parox.
+
+In the non-morphological ending experiment. Monolinguals show almost the same pattern. But we see differences between interpreters and non-interpreters. The non-interpreters can only anticipate above chance in the CVC oxytone conditions, whereas interpreters predict above chance for all conditions, the seem to do so at a lower rate with the CV condition and the paroxytone condition.
+
 
 ---
 
@@ -571,6 +585,20 @@ background-position: 50% 70%
 ## Experiment 2
 ### papa-papá
 ]
+
+.footnote[
+.tiny[Growth curve estimates of target fixations as a function of lexical stress and syllable structure for each group during the analysis window.]
+]
+
+???
+In the previous graph we were seeing what happens at the intercept (point at it in the graph). In this graph we're seeing the model estimates for the time window from 200ms before the offset of the target syllable, until 600ms after.
+
+On the top panes we have conditions without the coda, for parox and oxy, bottom conditions with coda. We see that overall, monolinguals anticipate earlier (the curve crosses change eairlier in the time course) and at a higher rate (by the offset of the target syllable, the curve is higher). 
+
+In the case of Experiment 1, we see that interpreters and non-interpreters behave similarly, interpreters seem to anticipate later in the time course, they are doing it faster because the reach the same rate of anticipation by the offset of the target syllable.
+
+Moving to Experiment 2, we see differences between the interpreters and non-interpreters. The interpreters are behaving closer to monolinguals. The group effect did not reach significance when comparing mon to in accross conditions, however it was .057. The non-morphological ending seems to be harder to anticipate for the non-interpreters and, as we saw earlier, they are only anticipating in the CVC-oxytonce condition.
+
 
 ---
 
@@ -614,19 +642,35 @@ background-position: 50% 70%
 ]
 
 
+???
+
+I started by a descriptive explanation of what's going on, here is a summary of the effects and interactions that we got from the growth curve analysis.
+
+---
+
+# Discussion
+
+- Monolinguals use stress and syllabic structure in a similar way for predicting both morphological and non-morphological word endings 
+
+- Experience with interpreting doesn't seem to have a big impact on the prediction of morphology
+
+- But it does make a difference when predicting non-morphological endings
+
+- Both lexical stress and syllabic structure behave in the same direction
+    - Less frequent cond (oxytone, CVC) improve prediction
+    - Having fewer lexical competitors accelarates prediction
+
+
 ---
 
 # Conclusions
 
-1. Our findings support models advocating that it is possible to train anticipatory processing (Schremm, et al., 2017), also with long-term training.
+1. Our findings support models advocating that it is possible to train anticipatory processing <sup>(Schremm, et al., 2017)</sup>, also with long-term training.
 
 2. Prediction strategies in the bilingual mind can be enhanced through implicit (i.e. interpreting) training. 
 
 3. Prediction strategies are qualitatively similar in the L1 and L2, but quantitatively different.
 
-4. Word-level prediction mechanisms are similar in both morphological and non-morphological word-endings.
-
-5. Less frequent prosodic patterns (oxytone stress, CVC syllabic structure) reduce the number of possible lexical competitors and facilitate prediction.
 
 
 ---
@@ -637,12 +681,16 @@ background-position: 50% 70%
     - increased weekly contact with the L2, 
     - stronger resistance to articulatory suppression
 
+--
+
 - Semantic relatedness:
     - firma-firmó = verb + semantically related
     - papa-papá = noun + semantically unrelated
 
+--
+
 - Future studies:
-    - Dedo-dedal = noun + semantically related
+    - dedo-dedal = noun + semantically related
     - Is the difference due to a change in grammar category? or semantic relatedness?
 
 ---
@@ -664,7 +712,7 @@ background-position: 50% 65%
 
 
 # cris.lozano@rutgers.edu
-### Access presentation here: crislozano.github.io/hls19_presentantion
+### Access the presentation here: crislozano.github.io/hls19_presentantion
 
 
 
